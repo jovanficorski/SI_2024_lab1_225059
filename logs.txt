@@ -1,0 +1,38 @@
+commit 9a501a3d3b642b4475dfed7dfc18fb8acb47fea4 (HEAD -> master, origin/master, origin/bug2, origin/bug1, bug2, bug1)
+Author: Jovan <jovanfic@gmail.com>
+Date:   Sun Apr 14 15:29:58 2024 +0200
+
+    Add starter code
+
+commit 7492289e46df5cdeb0966c2fa4fba849b05432e5
+Author: Jovan <jovanfic@gmail.com>
+Date:   Fri Apr 12 18:53:30 2024 +0200
+
+    Initial commit
+- za master
+
+commit 9a501a3d3b642b4475dfed7dfc18fb8acb47fea4 (HEAD -> bug1, origin/master, origin/bug2, origin/bug1, master, bug2)
+Author: Jovan <jovanfic@gmail.com>
+Date:   Sun Apr 14 15:29:58 2024 +0200
+
+    Add starter code
+
+commit 7492289e46df5cdeb0966c2fa4fba849b05432e5
+Author: Jovan <jovanfic@gmail.com>
+Date:   Fri Apr 12 18:53:30 2024 +0200
+
+    Initial commit
+-za bug1
+
+commit 9a501a3d3b642b4475dfed7dfc18fb8acb47fea4 (HEAD -> bug2, origin/master, origin/bug2, origin/bug1, master, bug1)
+Author: Jovan <jovanfic@gmail.com>
+Date:   Sun Apr 14 15:29:58 2024 +0200
+
+    Add starter code
+
+commit 7492289e46df5cdeb0966c2fa4fba849b05432e5
+Author: Jovan <jovanfic@gmail.com>
+Date:   Fri Apr 12 18:53:30 2024 +0200
+
+    Initial commit
+-za bug2
